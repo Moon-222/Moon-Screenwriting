@@ -11,8 +11,11 @@
 
 ## 剧本
 **·阅读须知**
+
 目前库里只有两个剧本。
+
 **剧本一**为大二的原创期末作品———独幕剧《塔纳托斯》改编而来。笔者共进行了两个版本的改写。两版本质都是互动式叙事，但第二版的自由度更高。
+
 - 版本一的剧本可被定义为视觉小说式叙事。剧情基本保留原作的内容和框架，只是增添了一些影响数值的对话，这些数值会影响后续的结局判定。（可参考橙光游戏/互动小说的形式）。
 
 - 版本二的改编则更倾向于RPG设定。但由于原作的体量较小，且内容结构方面还存在些许弊病，因而这一版的改动还在开发中（一稿大体完成，但还需要进行大幅度调整）
@@ -23,15 +26,26 @@
 
 **剧本阅读**
 
-[塔纳托斯](D:\WorkSpace\Screenwriting\《塔纳托斯》)
-·  [版本一](D:\WorkSpace\Screenwriting\《塔纳托斯》\版本一.md) 
-·  [版本二](D:\WorkSpace\Screenwriting\《塔纳托斯》\版本二.md)
+[塔纳托斯](https://github.com/Moon-222/Moon-Screenwriting/blob/412ee2492e7cec576aedc6c0d15e3ef9437c6e80/%E3%80%8A%E5%A1%94%E7%BA%B3%E6%89%98%E6%96%AF%E3%80%8B)
 
-[天国的救赎](D:\WorkSpace\Screenwriting\Moon-Screenwriting\《天国的救赎》)
-·[人物小传](D:\WorkSpace\Screenwriting\Moon-Screenwriting\《天国的救赎》\人物小传.md)
-·[故事大纲](D:\WorkSpace\Screenwriting\Moon-Screenwriting\《天国的救赎》\故事大纲.md)
-·[场景片段](D:\WorkSpace\Screenwriting\Moon-Screenwriting\《天国的救赎》\场景片段.md)
-·[游戏道具](D:\WorkSpace\Screenwriting\Moon-Screenwriting\《天国的救赎》\游戏道具1.md)
-1.  [褪色的彩带](D:\WorkSpace\Screenwriting\Moon-Screenwriting\《天国的救赎》\游戏道具1.md\褪色的彩带.md)
-2. [磨损的圣盾项链](D:\WorkSpace\Screenwriting\Moon-Screenwriting\《天国的救赎》\游戏道具1.md\磨损的圣盾项链.md)
-3. [札记](D:\WorkSpace\Screenwriting\Moon-Screenwriting\《天国的救赎》\游戏道具1.md\札记.md)
+·  [版本一](https://github.com/Moon-222/Moon-Screenwriting/blob/412ee2492e7cec576aedc6c0d15e3ef9437c6e80/%E3%80%8A%E5%A1%94%E7%BA%B3%E6%89%98%E6%96%AF%E3%80%8B/%E7%89%88%E6%9C%AC%E4%BA%8C.md) 
+
+·  [版本二](https://github.com/Moon-222/Moon-Screenwriting/blob/412ee2492e7cec576aedc6c0d15e3ef9437c6e80/%E3%80%8A%E5%A1%94%E7%BA%B3%E6%89%98%E6%96%AF%E3%80%8B/%E7%89%88%E6%9C%AC%E4%B8%80.md)
+
+[天国的救赎](https://github.com/Moon-222/Moon-Screenwriting/blob/412ee2492e7cec576aedc6c0d15e3ef9437c6e80/%E3%80%8A%E5%A4%A9%E5%9B%BD%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B)
+
+·[人物小传](https://github.com/Moon-222/Moon-Screenwriting/blob/412ee2492e7cec576aedc6c0d15e3ef9437c6e80/%E3%80%8A%E5%A4%A9%E5%9B%BD%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B)
+
+·[故事大纲](https://github.com/Moon-222/Moon-Screenwriting/blob/62f47c1a002eb382a9b95f5895394faee5e438eb/%E3%80%8A%E5%A4%A9%E5%9B%BD%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B/%E6%95%85%E4%BA%8B%E5%A4%A7%E7%BA%B2.md)
+
+·[场景片段](https://github.com/Moon-222/Moon-Screenwriting/blob/412ee2492e7cec576aedc6c0d15e3ef9437c6e80/%E3%80%8A%E5%A4%A9%E5%9B%BD%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B/%E5%9C%BA%E6%99%AF%E7%89%87%E6%AE%B5.md)
+
+·[游戏道具](https://github.com/Moon-222/Moon-Screenwriting/blob/62f47c1a002eb382a9b95f5895394faee5e438eb/%E3%80%8A%E5%A4%A9%E5%9B%BD%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B/%E6%B8%B8%E6%88%8F%E9%81%93%E5%85%B71.md)
+
+1.  [褪色的彩带](https://github.com/Moon-222/Moon-Screenwriting/blob/16a720894d9a23853b26d6b6a3d8e4f71556bb88/%E3%80%8A%E5%A4%A9%E5%9B%BD%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B/%E6%B8%B8%E6%88%8F%E9%81%93%E5%85%B71.md/%E8%A4%AA%E8%89%B2%E7%9A%84%E5%BD%A9%E5%B8%A6.md)
+
+2. [磨损的圣盾项链](https://github.com/Moon-222/Moon-Screenwriting/blob/16a720894d9a23853b26d6b6a3d8e4f71556bb88/%E3%80%8A%E5%A4%A9%E5%9B%BD%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B/%E6%B8%B8%E6%88%8F%E9%81%93%E5%85%B71.md/%E7%A3%A8%E6%8D%9F%E7%9A%84%E5%9C%A3%E7%9B%BE%E9%A1%B9%E9%93%BE.md)
+
+3. [札记](https://github.com/Moon-222/Moon-Screenwriting/blob/62f47c1a002eb382a9b95f5895394faee5e438eb/%E3%80%8A%E5%A4%A9%E5%9B%BD%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B/%E6%B8%B8%E6%88%8F%E9%81%93%E5%85%B71.md/%E6%9C%AD%E8%AE%B0.md)
+
+
