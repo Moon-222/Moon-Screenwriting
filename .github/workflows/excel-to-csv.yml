@@ -6,6 +6,9 @@ on:
     paths:
       - "**.xlsx"
       - "**.xlsm"
+      - ".github/workflows/excel-to-csv.yml"
+      - ".github/scripts/excel_to_csv.py"
+      - "requirements.txt"
   pull_request:
     paths:
       - "**.xlsx"
