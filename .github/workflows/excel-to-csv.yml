@@ -1,0 +1,63 @@
+name: Convert Excel to CSV
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**.xlsx"
+      - "**.xlsm"
+  pull_request:
+    paths:
+      - "**.xlsx"
+      - "**.xlsm"
+      - ".github/workflows/excel-to-csv.yml"
+      - ".github/scripts/excel_to_csv.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: excel-to-csv
+  cancel-in-progress: false
+
+jobs:
+  convert:
+    name: Convert .xlsx -> .csv
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install --quiet openpyxl==3.1.5
+
+      - name: Run conversion
+        run: python .github/scripts/excel_to_csv.py .
+
+      - name: Upload CSVs (pull requests)
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: csv-output
+          path: "**/*.csv"
+          if-no-files-found: ignore
+
+      - name: Commit and push (push / manual)
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "chore: convert Excel files to CSV"
+            git push
+          fi
