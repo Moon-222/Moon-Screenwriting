@@ -1,0 +1,18 @@
+{
+    "projectFileVersion": 4,
+    "sourceFiles": [
+        "**/*.yarn"
+    ],
+    "excludeFiles": [],
+    "baseLanguage": "zh",
+    "projectName": "MyYarnProject",
+    "authorName": [
+        "Moon"
+    ],
+    "editorOptions": {
+        "yarnScriptEditor": {
+            "presenter": "try",
+            "startNode": "序章"
+        }
+    }
+}
